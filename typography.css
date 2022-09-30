@@ -1,0 +1,39 @@
+.typographyTextfiledBody 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyLabel 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing:  
+  0.04em;
+  text-indent: 0px;
+  
+}    
+
+.typographyButton 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing:  
+  0.02em;
+  text-indent: 0px;
+  
+}    
+
