@@ -66,10 +66,6 @@ To guide users to other sections of your documentation, use a *Shortcut* block:
 [Open Youtube Video](https://www.youtube.com/embed/ztw1Sg3h-rs)  
 
 
-  
-Accent Blue: rgb(9, 64, 160)  
-
-
 /d
 
   
