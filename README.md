@@ -5,7 +5,8 @@ Welcome to our design system documentation! Below you will find the entire conte
 ## Content
  
 ### Foundations
-- [Overview](./foundations/overview-1.md)
+- [Overview](./foundations/overview.md)
+- [Untitled](./foundations/untitled.md)
 - [Color](./foundations/color.md)
 - [Typography](./foundations/typography.md)
 - [Iconography](./foundations/iconography.md)
