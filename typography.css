@@ -1,48 +1,9 @@
-.typographyTextfiledBody 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyLabel 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: 11px;
-  letter-spacing:  
-  0.04em;
-  text-indent: 0px;
-  
-}    
-
-.typographyButton 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: 13px;
-  letter-spacing:  
-  0.02em;
-  text-indent: 0px;
-  
-}    
-
 .typographyH1 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 57px;
   line-height: 64px;
   letter-spacing:  
@@ -54,9 +15,9 @@
 .typographyH2 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 43px;
   line-height: 50px;
   letter-spacing:  
@@ -68,9 +29,9 @@
 .typographyH3 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 32px;
   line-height: 40px;
   letter-spacing:  
@@ -82,9 +43,9 @@
 .typographyH4 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 24px;
   line-height: 32px;
   letter-spacing:  
@@ -96,9 +57,9 @@
 .typographyH5 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 21px;
   line-height: 29px;
   letter-spacing:  
@@ -110,7 +71,7 @@
 .typographyLargeLead 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -124,7 +85,7 @@
 .typographyMediumLead 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
   font-weight: 400;
   font-size: 21px;
@@ -138,7 +99,7 @@
 .typographyButtonLabel 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
   font-weight: 400;
   font-size: 21px;
@@ -152,7 +113,7 @@
 .typographyParagraph 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -166,7 +127,7 @@
 .typographySmallParagraph 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -180,11 +141,25 @@
 .typographyTinyParagraph 
  {
   
-  font-family: "Inter";
+  font-family: "Blatant";
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
   line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographySale 
+ {
+  
+  font-family: "Blatant";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
   letter-spacing:  
   0em;
   text-indent: 0px;

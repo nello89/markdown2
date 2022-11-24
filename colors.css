@@ -1,12 +1,5 @@
 
 :root {
-    --colorPrimaryBlack: #141618;    
-    --colorAccentBlue: #0940a0;    
-    --colorGrey90: #232629;    
-    --colorGrey80: #363a3e;    
-    --colorGrey50: #868f98;    
-    --colorGrey20: #dce0e4;    
-    --colorGrey0: #ffffff;    
     --colorSuperRed: #ff0000;    
     --colorStrangeGreen: #00ff33;    
     --colorPaletteGreenGreen1100: #0e2a21;    
@@ -39,9 +32,7 @@
     /* Slightly less aquatic, still deep as an ocean */
     --colorPaletteAquaAqua1000: #193c4d;    
     --colorPaletteAquaAqua900: #265d71;    
-    /* Aqua with an amazing text-on-white contrast (AAA) */
     --colorPaletteAquaAqua800: #316c82;    
-    /* Aqua with good-enough text-on-white contrast (AA) */
     --colorPaletteAquaAqua700: #3a8396;    
     --colorPaletteAquaAqua600: #4295ab;    
     --colorPaletteAquaAqua500: #54b5cb;    
@@ -147,11 +138,11 @@
     --colorPaletteMagentaMagenta200: #ecc7f4;    
     --colorPaletteMagentaMagenta100: #f5e4fa;    
     --colorPaletteMagentaMagenta0: #fcf0fe;    
-    --colorSemanticPrimaryPrimaryActivebackground: #58c1b2;    
-    --colorSemanticPrimaryPrimaryHoverbackground: #6addc6;    
-    --colorSemanticPrimaryPrimaryHovercolor: #1b3e3e;    
-    --colorSemanticPrimaryPrimaryBackground: #97e7d5;    
-    --colorSemanticPrimaryPrimaryColor: #2a6461;    
+    --colorSemanticPrimaryPrimaryActivebackground: #453e96;    
+    --colorSemanticPrimaryPrimaryHoverbackground: #5a52b4;    
+    --colorSemanticPrimaryPrimaryHovercolor: #ffffff;    
+    --colorSemanticPrimaryPrimaryBackground: #6b62cc;    
+    --colorSemanticPrimaryPrimaryColor: #ffffff;    
     --colorSemanticTextTextInverse: #ffffff;    
     --colorSemanticTextTextSubtext: #545e5f;    
     --colorSemanticTextTextHeadline: #293333;    
@@ -168,19 +159,25 @@
     --colorSemanticSuccessSuccessIcon: #3c884d;    
     --colorSemanticSuccessSuccessBorder: #8fda75;    
     --colorSemanticSuccessSuccessBackground: #ddf3d9;    
-    --colorSemanticInfoInfoColor: #6b62cc;    
-    --colorSemanticInfoInfoIcon: #5a52b4;    
-    --colorSemanticInfoInfoBorder: #9e95ec;    
-    --colorSemanticInfoInfoBackground: #eaeaf8;    
-    --colorSemanticOpportunityOpportunityColor: #a43b5b;    
-    --colorSemanticOpportunityOpportunityIcon: #a43b5b;    
-    --colorSemanticOpportunityOpportunityBorder: #ee7fad;    
-    --colorSemanticOpportunityOpportunityBackground: #f7dcea;    
+    --colorSemanticInfoInfoColor: #3a79bd;    
+    --colorSemanticInfoInfoIcon: #306ca5;    
+    --colorSemanticInfoInfoBorder: #6aacef;    
+    --colorSemanticInfoInfoBackground: #e0f1fe;    
+    --colorSemanticOpportunityOpportunityColor: #357a7b;    
+    --colorSemanticOpportunityOpportunityIcon: #357a7b;    
+    --colorSemanticOpportunityOpportunityBorder: #6addc6;    
+    --colorSemanticOpportunityOpportunityBackground: #d5f6ef;    
     --colorSemanticPrimaryCtaPrimaryActivebackground: #dfe1e1;    
-    --colorSemanticPrimaryPrimaryBorder: #2a6461;    
-    --colorSemanticPrimaryHoverinnactivebackground: #c9cccc;    
+    --colorSemanticPrimaryPrimaryBorder: #6b62cc;    
+    --colorSemanticPrimaryHoverinnactivebackground: #c0c2f3;    
     --colorSpecialRatingRatingOn: #f6be41;    
     --colorSpecialRatingRatingHoveron: #d49b35;    
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
+    --colorSemanticPrimaryPrimaryInnactivebackground: #d8d8f6;    
+    --colorSemanticSaleSale70Background: #f6be41;    
+    --colorSemanticSaleSale50Background: #de638b;    
+    /* Some test description */
+    --colorSemanticSaleSale30Background: #58c1b2;    
+    --colorSemanticSaleSaleColor: #ffffff;    
 }
