@@ -175,11 +175,10 @@
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
     --colorSemanticPrimaryPrimaryInnactivebackground: #d8d8f6;    
-    --colorSemanticSaleSale70Background: #f6be41;    
-    --colorSemanticSaleSale50Background: #de638b;    
-    /* Some test description */
-    --colorSemanticSaleSale30Background: #58c1b2;    
-    --colorSemanticSaleSaleColor: #ffffff;    
+    --colorSemanticSaleSale70Background: #ac7d13;    
+    --colorSemanticSaleSale50Background: #b51d4e;    
+    --colorSemanticSaleSale30Background: #5869c1;    
+    --colorSemanticSaleSaleColor: #b7b7b7;    
     --colorPaletteGreenGreen1100: #0e2a21;    
     --colorPaletteGreenGreen1000: #1c4130;    
     --colorPaletteGreenGreen900: #2d6944;    
