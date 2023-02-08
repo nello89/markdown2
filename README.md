@@ -1,28 +1,23 @@
-# My Design System
+# marco luis
 
 Welcome to our design system documentation! Below you will find the entire content of the documentation separated by the main categories. Use this page to navigate and find what you are looking for!
 
 ## Content
  
-### Foundations
-- [Overview](./foundations/overview.md)
-- [Untitled](./foundations/untitled.md)
-- [Color](./foundations/color.md)
-- [Typography](./foundations/typography.md)
-- [Iconography](./foundations/iconography.md)
-- [Layout](./foundations/layout.md)
+### Styleguide
+- [Themes](./styleguide/themes.md)
+- [Typography](./styleguide/typography.md)
+- [Icons](./styleguide/icons.md)
+- [Components](./styleguide/components.md)
+- [Colors](./styleguide/colors/default-brand.md)
+  - [Default Brand](./styleguide/colors/default-brand.md)
+  - [Alternate Brand](./styleguide/colors/alternate-brand.md)
  
 ### Components
-- [Untitled](./components/untitled.md)
- 
-### Button
-- [Design](./button/design-1.md)
-- [Usage](./button/usage-1.md)
-- [Code](./button/code-1.md)
- 
-### Resources
-- [Design tokens](./resources/design-tokens.md)
-- [Tools and resources](./resources/tools-and-resources.md)
+- [Button ](./components/button/overview.md)
+  - [Overview](./components/button/overview.md)
+  - [Code](./components/button/code.md)
+  - [Markdown](./components/button/markdown.md)
 
 ## Generated documentation
 
