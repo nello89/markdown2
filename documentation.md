@@ -48,26 +48,26 @@ Now that you know all the basic principles, the journey through our design syste
 /com
 
   
-![Sale Badge, Sale=30%](https://studio-assets.supernova.io/design-systems/14533/e78e6291-7386-43d9-a639-c417a421837b.png)  
+![Sale Badge, Sale=30%](https://studio-assets.supernova.io/design-systems/14533/7785686e-4446-4da1-bbd2-bb3d67418b60.png)  
 Sale Badge, Sale=30%  
-![Sale Badge, Sale=50%](https://studio-assets.supernova.io/design-systems/14533/2c7f09bf-ba5d-4875-a589-bbad59d8a59a.png)  
+![Sale Badge, Sale=50%](https://studio-assets.supernova.io/design-systems/14533/7c81798f-0cfb-46f2-a5b6-35a387ab97d1.png)  
 Sale Badge, Sale=50%  
-![Sale Badge, Sale=70%](https://studio-assets.supernova.io/design-systems/14533/9a86ea29-0153-4753-8dc4-ab5eae284073.png)  
+![Sale Badge, Sale=70%](https://studio-assets.supernova.io/design-systems/14533/d5e38449-9598-42d7-9f47-451c3c070f07.png)  
 Sale Badge, Sale=70%  
 
 
   
-![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/14533/a78bcb60-5e71-44a6-97c1-bcbbad77486e.png)  
+![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/14533/7c63afb3-68d6-492d-bac8-a9b39da71477.png)  
 CTA Button, Icon=False, State=Active  
-![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/14533/be2aea71-d1ce-4b12-bddf-5fbeee88b418.png)  
+![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/14533/9a353107-2413-4c00-ac03-f0a6a65000fb.png)  
 CTA Button, Icon=False, State=Default  
-![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/14533/7ef70577-aeab-4019-a95a-40cecf4abade.png)  
+![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/14533/f9e17637-57e6-4a84-9035-b4b0d22cb03f.png)  
 CTA Button, Icon=False, State=Hover  
-![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/14533/0c2cc926-a2e1-4337-802f-27e47ecc4587.png)  
+![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/14533/4762a52f-af7b-44af-83b8-2e38ac1c1839.png)  
 CTA Button, Icon=True, State=Active  
-![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/14533/351ec587-16f3-4028-a6eb-8ce17d7faa9b.png)  
+![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/14533/4576925f-95ea-466e-8c42-e172545d8ab3.png)  
 CTA Button, Icon=True, State=Default  
-![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/14533/f64bbf55-8c7c-4917-b1e1-a3ec010928da.png)  
+![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/14533/b2a28e09-0e9f-4b01-90e3-744507e0ddbb.png)  
 CTA Button, Icon=True, State=Hover  
 
 
@@ -76,7 +76,7 @@ CTA Button, Icon=True, State=Hover
 ```
 
   
-![Logo, Inverted=False, Text=False](https://studio-assets.supernova.io/design-systems/14533/0e6ff371-d9e5-45d6-8f21-f254c3bce7e6.png)  
+![Logo, Inverted=False, Text=False](https://studio-assets.supernova.io/design-systems/14533/9d024bb1-d47e-4cf7-b96d-b2eed510a259.png)  
 Logo, Inverted=False, Text=False  
 
 
@@ -85,21 +85,21 @@ Logo, Inverted=False, Text=False
 
 
   
-![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/14533/a78bcb60-5e71-44a6-97c1-bcbbad77486e.png)  
+![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/14533/7c63afb3-68d6-492d-bac8-a9b39da71477.png)  
 CTA Button, Icon=False, State=Active  
 
 
   
-![Sale Badge, Sale=30%](https://studio-assets.supernova.io/design-systems/14533/e78e6291-7386-43d9-a639-c417a421837b.png)  
+![Sale Badge, Sale=30%](https://studio-assets.supernova.io/design-systems/14533/7785686e-4446-4da1-bbd2-bb3d67418b60.png)  
 Sale Badge, Sale=30%  
 
 
   
-![Logo, Inverted=False, Text=False](https://studio-assets.supernova.io/design-systems/14533/0e6ff371-d9e5-45d6-8f21-f254c3bce7e6.png)  
+![Logo, Inverted=False, Text=False](https://studio-assets.supernova.io/design-systems/14533/9d024bb1-d47e-4cf7-b96d-b2eed510a259.png)  
 Logo, Inverted=False, Text=False  
-![Logo, Inverted=False, Text=True](https://studio-assets.supernova.io/design-systems/14533/341a9404-f8fa-4421-abf9-d4595c242915.png)  
+![Logo, Inverted=False, Text=True](https://studio-assets.supernova.io/design-systems/14533/8d46f1dd-2260-445d-80b2-39ad98827313.png)  
 Logo, Inverted=False, Text=True  
-![Logo, Inverted=True, Text=False](https://studio-assets.supernova.io/design-systems/14533/695edb0d-992f-4da2-b52c-32c06c5a2631.png)  
+![Logo, Inverted=True, Text=False](https://studio-assets.supernova.io/design-systems/14533/49b3d7f5-9308-48db-a46d-796130cbf1bb.png)  
 Logo, Inverted=True, Text=False  
-![Logo, Inverted=True, Text=True](https://studio-assets.supernova.io/design-systems/14533/7cc2a6f2-6999-4244-b931-353d8611d0ae.png)  
+![Logo, Inverted=True, Text=True](https://studio-assets.supernova.io/design-systems/14533/bfa255cc-5ffe-4714-83c9-8ff6c48dca9a.png)  
 Logo, Inverted=True, Text=True  
